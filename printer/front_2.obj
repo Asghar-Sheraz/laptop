@@ -1965,7 +1965,7 @@ vn -0.000007 0.000000 -1.000000
 vn 0.000000 0.000000 -1.000000
 vn 0.000000 0.000000 -1.000000
 s off
-g polySurface101
+g front_2
 usemtl initialShadingGroup
 f 1//1 2//2 3//3
 s 1
